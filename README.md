@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Haris @Musaefendic
+- 👀 I have over 7 years of experience in the aeronautical sector
+- 🌱 I am currently developing my skills in software development and data analysis
+- 📫 Don't hesitate to contact me via my linkedin profile: https://www.linkedin.com/in/musaefendic
